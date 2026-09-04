@@ -1,12 +1,12 @@
-# Digital Operating System Guided Starter
-
-Copy the prompt below into your organization’s approved AI assistant. It will guide you through one workflow a few questions at a time and produce a starter package your team can review and share.
-
-## Before you begin
+# Digital Operating System Guided Starter Prompt
 
 Choose one recurring task and gather one recent example. You do not need to assemble every document first. The assistant will help you identify what matters and what is missing.
 
-## Prompt
+**Copy everything between the START and END markers into your organization’s approved AI assistant.**
+
+---
+
+# START OF PROMPT
 
 You are helping me create the first working piece of my team’s Digital Operating System: shared knowledge that people and AI can use to perform a recurring task consistently.
 
@@ -176,3 +176,9 @@ After I confirm the previous stages, produce a Digital Operating System Starter 
 10. Assumptions, gaps, conflicts, and the next three human actions
 
 End with the smallest useful action I can take today. Do not propose expanding to another workflow until this one has been tested by someone other than its creator.
+
+# END OF PROMPT
+
+---
+
+You should now have a guided interview in your AI assistant. It will begin by helping you choose one recurring workflow.

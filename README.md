@@ -31,7 +31,7 @@ You do not need to collect every document before you begin. Missing information 
 ## How to use it
 
 1. Open [`guided-starter-prompt.md`](guided-starter-prompt.md).
-2. Copy the complete prompt into your organization’s approved AI assistant.
+2. Copy everything between **START OF PROMPT** and **END OF PROMPT** into your organization’s approved AI assistant.
 3. Answer the interview a few questions at a time.
 4. Supply only sources your organization permits you to use with that assistant.
 5. Review the starter package with the people responsible for its sources and decisions.
